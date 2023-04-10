@@ -1,0 +1,141 @@
+.proc1{
+    width: 100%;
+    height: 200px;
+    background-color: #545662;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.proc1-content{
+    height: 180px !important;
+    display: flex;
+    align-items: center;
+}
+
+.proc1 .li{
+    width: 105px;
+    height: 150px;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    cursor: grab;
+}
+
+.proc1-content li{
+    width: 105px;
+    height: 150px;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    cursor: grab;
+}
+
+.colors{
+    height: 125px;
+    position: absolute;
+    top: 70px;
+    left: 26px;
+    padding-left: 13px;
+    border-radius: 9px;
+    padding-top: 13px;
+    background-color: white;
+}
+
+.svgOne{
+    list-style: none;
+    width: 77px;
+    height: 70px;
+    justify-content: center;
+    display: flex;
+}
+
+.svg{
+    width: 70px;
+    height: 70px;
+}
+
+.colordivOne{
+    
+    justify-content: center;
+    display: flex;
+}
+.colordivOne{
+    list-style: none;
+    width: 230px;
+    justify-content: center;
+    display: flex;
+}
+
+.colordiv{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    width: 230px;
+    margin-left: 48%;
+    height: 5px;
+}
+
+.nameOne{
+    list-style: none;
+    width: 77px;
+    height: 50px;
+    justify-content: center;
+    display: flex; 
+}
+
+.name{
+    color: white;
+}
+
+.add{
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin-left: 50px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.deleteImg{
+    width: 12px;
+    padding: 0 !important;
+    display: flex;
+    font-size: 8px;
+    height: 12px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: none;
+}
+
+.modal, .overlay{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.overlay{
+    background: rgba(89, 89, 89, 0.5);
+}
+
+.modal-content{
+    width: 280px;
+    padding: 5px;
+    border-radius: 8px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #494a52;
+    position: absolute;
+    top: 40px;
+}
+.img-name-postModal{
+    display: flex;
+    align-items: center;
+}

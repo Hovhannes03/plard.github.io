@@ -1,0 +1,65 @@
+{
+  "processOne": [
+    {
+      "id": 1,
+      "name": "Идея Скеч",
+      "svg": "airplane.svg",
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "name": "Дизайн",
+      "svg": " camera.svg",
+      "color": "rgb(78, 78, 250)"
+    },
+    {
+      "id": 3,
+      "name": "3D Файл",
+      "svg": "hotel.svg",
+      "color": "pink"
+    },
+    {
+      "id": 4,
+      "name": "3D Файл",
+      "svg": "hotel.svg",
+      "color": "yellow"
+    },
+    {
+      "id": 5,
+      "name": "3D Файл",
+      "svg": "hotel.svg",
+      "color": "green"
+    },
+    {
+      "id": 6,
+      "name": "kjhgfds",
+      "svg": "hotel.svg",
+      "color": "gray"
+    },
+    {
+      "name": "errr",
+      "svg": "camera.svg",
+      "color": "#3f51b5",
+      "id": 7
+    },
+    {
+      "name": "ytdsrdy",
+      "svg": "airplane.svg",
+      "color": "#4caf50",
+      "id": 8
+    },
+    {
+      "name": "errr",
+      "svg": "phone.svg",
+      "color": "#3f51b5",
+      "id": 9
+    }
+  ],
+  "processTwo": [
+    {
+      "id": 1,
+      "name": "Bock",
+      "svg": "dede"
+    }
+  ]
+}
